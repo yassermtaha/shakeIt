@@ -1,9 +1,3 @@
-/*
- * Author: Alex Gibson
- * https://github.com/alexgibson/shake.js
- * License: MIT license
- */
-
 (function(global, factory) {
     if (typeof define === 'function' && define.amd) {
         define(function() {
